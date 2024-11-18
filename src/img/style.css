@@ -1,0 +1,15 @@
+
+.button{
+
+
+    background-color: #DD7210;
+    color: #000000;
+    padding: 10px 30px;
+  border-radius: 13px;
+  margin: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+/* 
+create a parent box containing sofa,cabinet, decors that when you hover on one of dem it will display a picture and when u hover on another one it will show another picture as the background 
+ */
